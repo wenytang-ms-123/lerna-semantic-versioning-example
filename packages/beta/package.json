@@ -4,5 +4,6 @@
   "repository": "git@github.com:wenytang-ms-123/lerna-semantic-versioning-example.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  }
+  },
+  "gitHead": "d8358ed67f3846aefc862a52acbd31b7e468bd59"
 }
